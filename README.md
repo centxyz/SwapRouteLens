@@ -26,7 +26,7 @@ DeFiBridgePlus is built to be simple and practical, focusing on doing one thing 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/harutosati/DeFiBridgePlus.git`
+1. Clone the repository: `git clone https://github.com/centxyz/DeFiBridgePlus.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 
 ## Configuration
@@ -42,4 +42,4 @@ Contributions are welcome. Open an issue for bugs or feature requests, or submit
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/harutosati/DeFiBridgePlus/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/centxyz/DeFiBridgePlus/blob/main/LICENSE) file for details.
