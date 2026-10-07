@@ -1,16 +1,16 @@
-# DeFiBridgePlus
+# SwapRouteLens
 
-[![CI](https://github.com/centxyz/DeFiBridgePlus/actions/workflows/ci.yml/badge.svg)](https://github.com/centxyz/DeFiBridgePlus/actions/workflows/ci.yml)
+[![CI](https://github.com/centxyz/SwapRouteLens/actions/workflows/ci.yml/badge.svg)](https://github.com/centxyz/SwapRouteLens/actions/workflows/ci.yml)
 
-DeFiBridgePlus is a cross-chain route inspection and transaction-preparation CLI powered by LI.FI's bridge aggregator API. It discovers supported chains and tokens, requests real bridge quotes, compares route costs and duration, and emits a restricted unsigned transaction request for wallet review.
+SwapRouteLens is a cross-chain route inspection and transaction-preparation CLI powered by LI.FI's bridge aggregator API. It discovers supported chains and tokens, requests real bridge quotes, compares route costs and duration, and emits a restricted unsigned transaction request for wallet review.
 
 It deliberately never accepts a private key, signs, approves, or broadcasts transactions.
 
 ## Install
 
 ```bash
-git clone https://github.com/centxyz/DeFiBridgePlus.git
-cd DeFiBridgePlus
+git clone https://github.com/centxyz/SwapRouteLens.git
+cd SwapRouteLens
 npm install
 ```
 
