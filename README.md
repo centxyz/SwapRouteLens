@@ -46,3 +46,9 @@ The client follows LI.FI's documented `GET /v1/quote` contract: [official quote 
 ## License
 
 MIT © cent
+
+## Current limitations
+
+- Quotes depend on LI.FI availability and can become stale as fees, balances, and routes change.
+- The tool prepares unsigned requests but does not approve tokens, sign, broadcast, or guarantee settlement.
+- Users must independently verify the destination chain, token addresses, calldata, allowances, and wallet prompts.
